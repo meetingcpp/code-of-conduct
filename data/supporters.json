@@ -948,6 +948,19 @@
           "email": "celine.dedaj@ableton.com"
         }
       ]
+    },
+    {
+      "name": "Meeting C++ conference",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://www.meetingcpp.com",
+      "contacts": [
+        {
+          "name":    "Jens Weller",
+          "phone":   "",
+          "email":   "info at meetingcpp.com"
+        }
+      ]
     }
   ]
 }
